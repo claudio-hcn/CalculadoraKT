@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalculadoraKT</string>
+    <string name="btnSuma">+</string>
+    <string name="btnResta">-</string>
+    <string name="btnDiv">/</string>
+    <string name="btnMult">x</string>
+    <string name="nro1">Ingrese el primer número</string>
+    <string name="nro2">Ingrese el segundo número</string>
+    <string name="resultado">Resultado</string>
+
+</resources>
